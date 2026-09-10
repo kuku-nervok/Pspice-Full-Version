@@ -238,3 +238,6 @@ This repository serves as the official landing page for PSpice. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PSpice today!**
+
+---
+**Last updated:** 2026-09-10 20:11:12 UTC
