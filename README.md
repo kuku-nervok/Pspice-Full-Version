@@ -240,4 +240,4 @@ This repository serves as the official landing page for PSpice. The software is 
 **Get the most recent version of PSpice today!**
 
 ---
-**Last updated:** 2026-10-13 04:20:35 UTC
+**Last updated:** 2026-10-13 12:17:04 UTC
